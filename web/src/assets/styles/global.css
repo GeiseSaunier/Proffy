@@ -47,6 +47,7 @@ button,
 textarea {
 
     font: 500 1.6rem poppins;
+    color: var(--color--text-base);
 
 }
 
